@@ -1,5 +1,14 @@
 const axios = require('axios');
 
+// beforeEach(() => initTests());
+// afterEach(() => closeTests());
+
+// beforeAll(() => initTests());
+// afterAll(() => closeTests());
+
+const initTests = () => console.log('init test...');
+const closeTests = () => console.log('finish test...');
+
 // toBe
 test('addition still works - toBe', () => {
     expect(2+2).toBe(4);
