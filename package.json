@@ -1,0 +1,26 @@
+{
+  "name": "traversy-training",
+  "version": "1.0.0",
+  "description": "Javascript training using Traversy Media on YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayneGreeley/traversy-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WayneGreeley/traversy-training/issues"
+  },
+  "homepage": "https://github.com/WayneGreeley/traversy-training#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
