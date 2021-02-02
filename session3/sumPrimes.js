@@ -1,3 +1,5 @@
+//pass in a number to loop up to and add all of the prime numbers.
+
 function sumPrimes(num) {
     let total = 0;
 

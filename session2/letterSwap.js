@@ -1,5 +1,8 @@
 //change every letter of the string to the one that follows it and capitalize the vowels
 
+// Change every letter of the string to the one that follows it and capitalize the vowels
+// Z should turn to A
+
 function letterSwap(str) {
     const vowels = ['a','e','i','o','u'];
     let resultStr = '';
